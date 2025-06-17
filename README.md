@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Ciao, sono Federico 👋</h1>
 
-<!--
-**Enoo8-dev/Enoo8-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Studente di Informatica all'Università degli Studi di Ferrara <br>
+  🚧 Lavoro a nuovi progetti... in arrivo! <br>
+  🌐 <a href="https://beninifederico.it" target="_blank">beninifederico.it</a> &nbsp;|&nbsp;
+  📫 <a href="mailto:beninifederico@beninifederico.it">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Chi sono
+
+Mi chiamo **Federico Benini** e sto frequentando la laurea triennale in Informatica presso l'Università degli Studi di Ferrara.  
+Sto iniziando a costruire il mio profilo GitHub con progetti personali e accademici.
+
+---
+
+### 📊 Statistiche GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enoo8-dev&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
+</p>
+
