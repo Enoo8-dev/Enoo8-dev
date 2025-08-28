@@ -13,12 +13,3 @@
 
 Mi chiamo **Federico Benini** e sto frequentando la laurea triennale in Informatica presso l'Università degli Studi di Ferrara.  
 Sto iniziando a costruire il mio profilo GitHub con progetti personali e accademici.
-
----
-
-### 📊 Statistiche GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enoo8-dev&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
-</p>
-
