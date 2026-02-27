@@ -4,7 +4,7 @@
   🎓 Studente di Informatica all'Università degli Studi di Ferrara <br>
   🚧 Lavoro a nuovi progetti... in arrivo! <br>
   🌐 <a href="https://beninifederico.it" target="_blank">beninifederico.it</a> &nbsp;|&nbsp;
-  📫 <a href="mailto:beninifederico@beninifederico.it">Email</a>
+  📫 <a href="mailto:me@beninifederico.it">Email</a>
 </p>
 
 ---
